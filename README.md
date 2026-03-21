@@ -108,7 +108,7 @@ Unityを用いて、育成システムの基礎構造と、
 ## 関連資料（企画・設計）
 本作の企画背景や、詳細な数値設計・ロジックをまとめたドキュメントを公開しています。
 
-- **[ゲームデザイン企画書](./Documents/01_Planning/GameDesign_DotDerby.pdf)**
+- **[ゲームデザイン企画書](./Documents/01_Planning/Game_Concept_DotDerby.pdf)**
   - ターゲット層、競合分析、コア体験の定義
 - **[詳細仕様書（システム・数値設計）](./Documents/02_Specifications/System_Spec_DotDerby.pdf)**
   - ステータス計算式、レース勝敗判定ロジック、画面遷移図、データ構造
